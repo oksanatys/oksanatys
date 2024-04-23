@@ -2,7 +2,7 @@
 
 ![Header](https://github.com/oksanatys/oksanatys/blob/main/activities/Quality-Assurance-1-2048x944.png)
 
-About me
+## I'm beginner QA Engineer
 
 Languages and Tools
 
