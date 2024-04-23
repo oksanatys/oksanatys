@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header](https://github.com/oksanatys/oksanatys/blob/main/activities/Quality-Assurance-1-2048x944.png)
 
 About me
 
