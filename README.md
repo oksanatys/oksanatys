@@ -13,7 +13,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-red?logo=Postman&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/-mySQL-green?logo=MySQL&logoColor=white&style=plastic)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=Jira&logoColor=white&style=plastic)
-![TestRail](https://img.shields.io/badge/-Mantis-lightblue?logo=TestRail&logoColor=white&style=plastic)
+![TestRail](https://img.shields.io/badge/-TestRail-lightblue?logo=TestRail&logoColor=white&style=plastic)
 ![Mantis](https://img.shields.io/badge/-Mantis-green?logo=Mantis&logoColor=white&style=plastic)
 ![Charles](https://img.shields.io/badge/-Charles-orange?logo=Charles&logoColor=white&style=plastic)
 ![DevTools](https://img.shields.io/badge/-DevTools-blue?logo=DevTools&logoColor=white&style=plastic)
