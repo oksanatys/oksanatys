@@ -23,10 +23,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/oksana-tyshchenko-64838b116/)
 [![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor=red)](mailto:oksana9484@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksanatys&hide=prs&show_icons=true&theme=cobalt&rank_icon=github&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksanatys&theme=cobalt)](https://github.com/oksanatys/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksanatys&hide=prs&show_icons=true&theme=dark&rank_icon=github&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
